@@ -1,4 +1,4 @@
-### Olá, eu sou o Marcos Gray
+### Hi, I am Marcos Gray
 
  <div>
   <a href="https://github.com/rafaballerini">
